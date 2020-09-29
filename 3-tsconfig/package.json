@@ -1,0 +1,15 @@
+{
+  "name": "typescript_configuration",
+  "version": "1.0.0",
+  "description": "```sh\r $ tsc --init\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "onesmusmuna",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.1.2",
+    "typescript": "^4.0.3"
+  }
+}
